@@ -1,0 +1,2 @@
+# SolarWindz
+Practicum Hackathon
